@@ -5,7 +5,6 @@ from upwardmobility.utils import *
 
 class NvStateContractorsBoardSpider(scrapy.Spider):
     name = 'nv_state_contractors_board'
-    custom_settings = {'CONCURRENT_REQUESTS': 1}
     allowed_domains = ['app.nvcontractorsboard.com']
     start_urls = ['https://app.nvcontractorsboard.com/Clients/NVSCB/Public/ContractorLicenseSearch/ContractorLicenseSearch.aspx']
     headers = {
