@@ -69,8 +69,8 @@ class NcStateBoardOfElectricalContractorsSpider(scrapy.Spider):
             l.add_value('street_address', addresses[0].rstrip('\r'))
             l.add_value('city', ', '.join(addresses[1].split(',')[:-1]).strip())
             state_zip = addresses[1].split(',')[-1]
-            l.add_value('state', state_zip.split(' ')[0].strip())
-            l.add_value('postal_code', state_zip.split(' ')[1].strip())
+            l.add_value('state', ' '.join(state_zip.split(' ')[:-1]).strip())
+            l.add_value('postal_code', state_zip.split(' ')[-1].strip())
             l.add_value('country', 'USA')
         elif len(addresses) == 3:
             str1 = addresses[0].rstrip('\r')
@@ -78,8 +78,8 @@ class NcStateBoardOfElectricalContractorsSpider(scrapy.Spider):
             l.add_value('street_address', f"{str1}{str2}")
             l.add_value('city', ', '.join(addresses[2].split(',')[:-1]).strip())
             state_zip = addresses[2].split(',')[-1]
-            l.add_value('state', state_zip.split(' ')[0].strip())
-            l.add_value('postal_code', state_zip.split(' ')[1].strip())
+            l.add_value('state', ' '.join(state_zip.split(' ')[:-1]).strip())
+            l.add_value('postal_code', state_zip.split(' ')[-1].strip())
             l.add_value('country', 'USA')
         u = f"https://arls-public.ncbeec.org/Public/_ShowAccountQualifiers/{response.meta['p_id']}"
         yield scrapy.Request(u, callback=self.parse_name, headers=self.headers, meta={'item':l.load_item()})
