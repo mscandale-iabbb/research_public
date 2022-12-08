@@ -35,7 +35,7 @@ def get_etree(html: str, url: str):
 
 def parse_name(full_name: str):
     prename = postname = first_name = last_name = middle_name = ''
-    prename_list = ['Mrs.', 'Mr.', 'Ms.']
+    prename_list = ['Mrs.', 'Mr.', 'Ms.', 'Dr.']
     postname_list = ['jr.', 'Jr.', 'JR.']
     for pre_name in prename_list:
         if pre_name in full_name:
