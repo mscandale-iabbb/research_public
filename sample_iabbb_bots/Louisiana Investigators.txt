@@ -1,0 +1,507 @@
+Series	Page	True Page	Name	Address	City	State	Zip	Phone	License	Expiration	
+1	1	1	226 Investigations, LLC	501 E.Rome Street	Gonzales	LA	70737	8887824907	7830-032012-LA	3/20/2023	
+1	1	1	3D Investigations and Process Service, LLC	597 Bruce Circle	Lake Charles	LA	70611	3375139261	9084-030117-LA	5/22/2023	
+1	1	1	5940 Training, LLC	15829 Hwy 67	Clinton	LA	70722	2259369818	10047-022222-LA	2/22/2023	
+1	1	1	A & A Investigations	2535 W.Bert Kouns Industrial Loop#203-143	Shreveport	LA	71118	3185287071	7138-060309-LA	9/15/2023	
+1	1	1	A & M Investigations, LLC	3515 Melville Dewey Dr. Ste 206	Metairie	LA	70002	5044213493	9288-020818-LA	2/8/2023	
+1	1	1	A Plus Investigations, LLC	237 DeFries Rd	Ragley	LA	70657	3377253397	3888-120498-LA	12/4/2023	
+1	1	1	A. J. Valenti and Associates, Inc.	191 Colonial Club Drive	Harahan	LA	70123	5049756163	9658-120519-LA	12/5/2022	
+1	1	1	A.C. Roman & Associates, Inc.	1350 RXR Plaza, West Tower	Uniondale	NY	11556	5165963300	9554-052219-LA	5/22/2023	
+1	1	1	A.R.B. Investigations	P O Box 1603	Shreveport	LA	71165	3187973513	3601-020298-LA	2/2/2023	
+1	1	1	A.S.A.P. Team, LLC	831 Royal Court	Ponchatoula	LA	70454	9859691127	7744-090611-LA	9/6/2023	
+1	1	1	A1 Process & Investigation LLC	21 Dauterive Ct.	Kenner	LA	70065	5046217033	7218-091509-LA	9/15/2023	
+1	1	1	AAA Investigations, Inc.	5904 S. Cooper St.,Ste. 104 PMB 92	Arlington	TX	76017	8174806220	8019-111412-LA	11/14/2023	
+1	1	1	AAA Investigative Services Group, LLC	P O Box 953	Jena	LA	71342	3183086463	9130-051817-LA	5/18/2023	
+1	1	1	Aachen Detective Agency	P O Box 1438	Covington	LA	70434	9857733810	1681-102495-LA	10/24/2023	
+1	1	1	AADON Investigations & Process Service, LLC	P.O. Box 775	Walker	LA	70785	2252435849	9450-111318-LA	11/13/2023	
+1	1	1	AAR & Associates, Inc.	P O Box 80002	Lafayette	LA	70598	3372374444	0470-042793-LA	7/7/2023	
+1	1	1	AASIC - All American Security & Investigation Co.	1917 Nicholas St	Lake Charles	LA	70605	3374787951	4609-082400-LA	8/24/2023	
+1	1	1	Abacus Research, Inc.	118 Magnolia Park Drive	Mooresville	NC	28117	8002468599	9268-011618-LA	1/16/2023	
+1	1	1	Acadian Investigations	4460 Stumberg Lane	Baton Rouge	LA	70816	5042567955	8387-071514-LA	7/15/2023	
+1	1	1	Acadian Research & Reconstruction	13713 Weston Road	Abbeville	LA	70510	3373191322	0318-033093-LA	6/13/2023	
+1	1	1	Acadian Search and Rescue	P.O.Box 211	Kaplan	LA	70548	3375811955	9305-031418-LA	3/14/2023	
+1	1	1	Accurate Intelligence	P.O. Box 91055	Lafayette	LA	70509	3373194282	4216-083099-LA	8/30/2023	
+1	1	1	Action Investigations	3433 Hwy 190 #179	Mandeville	LA	70471	9858071067	0027-030493-LA	3/4/2023	
+1	1	1	Action Quick Investigative Bureau, LLC	123 Coretta Street	Monroe	LA	71202	3186141710	8466-111914-LA	11/19/2023	
+1	1	1	ADCO Services LLC dba ROA Investigations	56720 Adcox Drive	Bogalusa	LA	70427	9855164479	9829-122120-LA	12/21/2022	
+1	2	2	ADR Investigations, LLC	P O Box 37776	Shreveport	LA	71133	3185052808	9311-032018-LA	3/20/2023	
+1	2	2	Advanced Inquires	101 Felonise Street	Lafayette	LA	70507	3372882810	8519-020615-LA	2/6/2023	
+1	2	2	Advanced Investigative Technologies, LLC	510 Third Street	Jennings	LA	70546	3372460933	5716-040104-LA	4/1/2023	
+1	2	2	Advantage Defense Solutions, LLC dba Advantage Investigations & Surveillance	1126 Coolidge Blvd., Ste 206	Lafayette	LA	70503	3372702727	10067-032222-LA	3/22/2023	
+1	2	2	Advantage Surveillance, LLC	P O Box 788	Thomasville	NC	27361	3364757750	4795-032201-LA	3/22/2023	
+1	2	2	Albert E. Clavin, Jr (Private Investigations)	3316 Lyndel Drive	Chalmette	LA	70043	5044953720	7815-021512-LA	2/15/2023	
+1	2	2	Algiers Investigations, LLC	3436 Magazine Street #224	New Orleans	LA	70115	5042610960	7476-090810-LA	11/14/2023	
+1	2	2	Allbritton Investigations	P.O. Box 334	Jonesboro	LA	71251	3182598444	8168-091813-LA	9/18/2023	
+1	2	2	Allied Universal Compliance & Investigations, Inc.	910 Paverstone Drive	Raleigh	NC	27615	8009270456	0763-072793-LA	7/27/2023	
+1	2	2	Alligator Investigations & Recoveries, LLC	210 W. Chestnut St.	Ponchatoula	LA	43125	9856341234	4222-083099-LA	8/30/2023	
+1	2	2	Ambrose Investigations, LLC	P  O Box 608	Choudrant	LA	71227	3184466032	7042-021009-LA	2/10/2023	
+1	2	2	American Investigations & Consulting Services, LLC	7516 Bluebonnet Blvd. # 239	Baton Rouge	LA	70810	5047232887	5497-061803-LA	12/6/2023	
+1	2	2	American Services Inc.	1505 St. Charles St	Houma	LA	70360	9858512154	3535-120897-LA	12/5/2023	
+1	2	2	Analytical Services, LLC	P.O. Box 1471	Metairie	LA	70004	5046791829	9989-110121-LA	11/1/2023	
+1	2	2	Angle Three Investigations LLC	P O Box 1321	Youngsville	LA	70592	3379620071	9223-101217-LA	10/12/2023	
+1	2	2	Anglero Investigations	406 Riviera Dr.	Slidell	LA	70460	9857748784	3006-101696-LA	10/16/2023	
+1	2	2	Anthony Graphia Investigations	P. O. Box 77681	Baton Rouge	LA	70879	2259757154	0072-030493-LA	3/4/2023	
+1	2	2	Applied Marine Technology, Inc.	540 Jackson Avenue	Mandeville	LA	70448	9856261876	4303-110999-LA	11/9/2023	
+1	2	2	Armentor Investigative Team, Inc.	300 Stewart Street	Lafayette	LA	70501	3372331471	7953-072012-LA	7/20/2023	
+1	2	2	Asmussen & Associates,  LLC	1661 Meadow Lake Drive	Zachary	LA	70791	2256589552	0011-030493-LA	3/4/2023	
+1	2	2	Assertive Legal Services, Inc.	2117 Veterans Blvd., Suite 295	Metairie	LA	70002	5044669060	9908-060921-LA	6/9/2023	
+1	2	2	ATA Associates Inc.	1301 Gemini	Houston	TX	77058	2814809847	4635-091400-LA	9/14/2023	
+1	2	2	Aurora Investigations, LLC	112 1/2 Dunreath Street	Lafayette	LA	70506	5042659948	9479-011519-LA	1/15/2023	
+1	2	2	aVeriFact, LLC	P.O. Box 2397	Hammond	LA	70404	8004685818	6582-013107-LA	7/15/2023	
+1	2	2	Averse Risk, LLC	23851 Belgian Road	Holden	LA	70744	2252443334	9477-011519-LA	1/15/2023	
+1	3	3	B & W Investigations, LLC	200 Ciravola Lane	Boutte	LA	70039	5045839423	8116-052013-LA	7/21/2023	
+1	3	3	B A Investigations	350 Pheasant Lane	Slidell	LA	70458	9854745494	7058-021909-LA	2/19/2023	
+1	3	3	Badeaux Investigations	20604 LA Hwy. 417	Lettsworth	LA	70753	2252812690	8260-013114-LA	1/31/2023	
+1	3	3	Bara Byrd Investigation Service	618 South 15th St	Baton Rouge	LA	70802	2255712921	4201-083099-LA	8/30/2023	
+1	3	3	Bayne Investigations	16705 Cass County Rd. 4566	Vivian	LA	71085	3185174467	9335-051618-LA	5/16/2023	
+1	3	3	Bayou Detective  Agency	113 E. Claiborne St.	St. Martinville	LA	70582	3373948100	7992-100312-LA	10/3/2023	
+1	3	3	Bayou Investigations Inc. - Lafayette	P O Box 92825	Lafayette	LA	70509	3372352322	0434-042793-LA	4/27/2023	
+1	3	3	Bayou Pines Fire Equip. Inc, dba FOCIS Tech.	141 Chinquapin Lane	DeRidder	LA	70634	3374623443	7459-072110-LA	7/21/2023	
+1	3	3	Bearden Investigative Agency, Inc.	1341 W. Mockingbird Lane, Suite 820	Dallas	TX	75247	8009432670	9374-072618-LA	7/26/2023	
+1	3	3	Bedell & Menke Investigations and Consulting, LLC	200 Mariners Plaza Drive, Ste. 207	Mandeville	LA	70448	5044155578	4700-121200-LA	12/12/2023	
+1	3	3	Belumbra, L.L.C.	6244 Belle Grove Drive	Baton Rouge	LA	70820	2253086800	7623-032211-LA	3/22/2023	
+1	3	3	Bertrand Private Investigating, LLC	415 West Magnolia St.	Ville Platte	LA	70586	3373636200	8300-032014-LA	6/10/2023	
+1	3	3	Blue Eagle of Louisiana, LLC dba Blue Eagle Investigations	P.O. Box 320	Brownsboro	TX	75756	8007202583	10059-031622-LA	3/16/2023	
+1	3	3	Bombet, Cashio & Associates	8335 Kelwood Ave.	Baton Rouge	LA	70806	2252750796	0022-030493-LA	11/14/2023	
+1	3	3	Bond & Assoc. Private Invest. Agency	P O Box 12186	Alexandria	LA	71315	3184464888	1193-082394-LA	8/23/2023	
+1	3	3	Bonner's Detective Agency, LLC	P O Box 342	Breaux Bridge	LA	70517	3372309463	4256-091699-LA	9/16/2023	
+1	3	3	Booker's Detective Agency	5705 Bayou Drive	Bossier City	LA	71112	3187711887	9793-102720-LA	10/27/2023	
+1	3	3	Bordelon Investigations & Process Server	PO Box 71	Center Point	LA	71323	3183598596	8041-012313-LA	1/23/2023	
+1	3	3	Bouillion Investigations & Security Consulting LLC	707 West Pine Street	Erath	LA	70533	3375177745	9177-071917-LA	7/19/2023	
+1	3	3	Brandt Investigative Services	P O Box 1196	Thibodaux	LA	70302	9854466400	5372-012703-LA	1/27/2023	
+1	3	3	BRICS & WES, L3C	1215 Prytania Street, Suite 331	New Orleans	LA	70130	5042641397	8646-072815-LA	7/28/2023	
+1	3	3	Bronston Drew Investigations	208 N. Barousse St.	Church Point	LA	70525	3373053763	9868-031821-LA	3/18/2023	
+1	3	3	Broussard Executive Protection & Investigation, LLC	1311 Kings Row	Slidell	LA	70461	5048134363	9960-091021-LA	9/10/2023	
+1	3	3	BSC Fire Services, LLC	1519 Vander Wilt Lane	Katy	TX	77449	8884053160	9557-052219-LA	5/22/2023	
+1	3	3	Bull Investigation, LLC	6735 East Hermes Street	New Orleans	LA	70126	5044139958	10165-101822-LA	10/18/2023	
+1	4	4	Burlwood Associates	P O Box 791970	New Orleans	LA	70179	2142131817	7662-051711-LA	1/27/2023	
+1	4	4	C & C Investigations	3301 Pines Rd	Shreveport	LA	71119	3184705255	3483-111497-LA	11/14/2023	
+1	4	4	C & L Investigations	3291 Grand Lake Dr.	Bossier City	LA	71111	3182727825	7485-092210-LA	9/22/2023	
+1	4	4	C S I Investigations, Inc.	1000 Chinaberry Dr., Suite 202	Bossier City	LA	71111	3188692222	4941-091801-LA	9/18/2023	
+1	4	4	C. W. Investigations, LLC	P O Box 4536	Monroe	LA	71211	3185099041	7044-021009-LA	2/10/2023	
+1	4	4	C.M.S. Observation	P.O. Box 93005	Lafayette	LA	70509		9813-120120-LA	12/1/2023	
+1	4	4	C.T. Investigations	120 Legend Lane	Carencro	LA	70520	3372785902	9555-052219-LA	5/22/2023	
+1	4	4	CAC TV Investigations	P O Box 1221	Youngsville	LA	70592	5047227550	3900-121098-LA	12/10/2022	
+1	4	4	CAPS Investigations, LLC	220 Stone Avenue	Lafayette	LA	70507	3373190061	6288-012306-LA	1/23/2024	
+1	4	4	Cardinal Info Services, LLC	P.O. Box 852	Jennings	LA	70546	3375010937	1555-071395-LA	7/13/2023	
+1	4	4	Carter Investigation	4966 Miles Drive	New Orleans	LA	70122	2255739229	9505-022619-LA	2/26/2023	
+1	4	4	Catalyst Private Investigations, LLC	5860 Citrus Blvd. Suite D. #163	Harahan	LA	70123	5044588609	8503-012015-LA	1/20/2023	
+1	4	4	Cenla Investigative Services, LLC	314 Dufour Street	Moreauville	LA	71355	3182643735	9180-071917-LA	7/19/2023	
+1	4	4	Centanni Investigative Agency Inc.	16 Glenwood Avenue	Harahan	LA	70123	5043825558	0031-030493-LA	3/4/2023	
+1	4	4	Centurion Research, LLC	201 Settlers Trace Blvd., # 2113	Lafayette	LA	70508	3372549758	7888-052312-LA	1/17/2023	
+1	4	4	Certified Investigative Solutions, Inc.	P. O. Box 740934	New Orleans	LA	70131	5048136303	9541-050319-LA	5/3/2023	
+1	4	4	Channing's Investigative Agency	708 Ridge Rd	Lafayette	LA	70506	3379842942	3717-051598-LA	10/12/2023	
+1	4	4	Claims Bureau USA, Inc.	P O Box 2936	Woburn	MA	01888	8006510460	5672-020204-LA	2/2/2023	
+1	4	4	Claims Investigation Agency	7171 Coralway, Suite 218	Miami	FL	33155	7865662843	10094-051922-LA	5/19/2023	
+1	4	4	Classified Investigative Services	P.O. Box 231318	New Orleans	LA	70183	5046215033	6184-072005-LA	7/20/2023	
+1	4	4	CMR Private Investigation, LLC	109 New Natchitoches Road	West Monroe	LA	71292	3185478574	9809-120120-LA	12/1/2022	
+1	4	4	Coastal Services & Investigations, LLC	2256 Front Street	Slidell	LA	70458	5048127169	8973-092016-LA	11/13/2023	
+1	4	4	Collins Investigative Services,  L.L.C.	131 T-Johns Road	Lake Charles	LA	70607	3378533965	6996-111908-LA	11/19/2023	
+1	4	4	Commander Investigation	326 Coffee St	Mandeville	LA	70448	9859663776	5209-070202-LA	12/27/2022	
+1	4	4	Comprehensive Investigations Inc.	P.O. Box 424	Port Allen	LA	70767	2257692000	0094-030493-LA	3/4/2023	
+1	5	5	Confidential Investigative Associates Inc.	P O Box 81563	Lafayette	LA	70598	3378568995	0296-033093-LA	3/30/2023	
+1	5	5	Confidential Research Services	224 Churchill Downs Dr	Bush	LA	70431	98550270009855027000	5981-011905-LA	1/19/2023	
+1	5	5	Consolidated Inspection Agency Inc.	11934 Market Place	Baton Rouge	LA	70816	2252925640	0420-042793-LA	4/27/2023	
+1	5	5	Constantino Fire Invest. & Conslultants, LLC	10338 Rustic Oak Drive	Baton Rouge	LA	70810	2258062747	8042-012313-LA	1/23/2023	
+1	5	5	Consulting Services of Shreveport, Inc.	606 Woodvale Street	Shreveport	LA	71115	3184232500	9308-032018-LA	3/20/2023	
+1	5	5	Contego Investigative Services, LLC	350 East Pine Street	Orlando	FL	32801	3212497600	8771-012016-LA	1/20/2023	
+1	5	5	Continental Investigations of Louisiana	151 Sycamore Street	Raceland	LA	70394	5049082254	0452-042793-LA	1/30/2023	
+1	5	5	Counterstrike Investigations Inc.	P O Box 738	Youngsville	LA	70592	3372770305	0264-033093-LA	3/30/2023	
+1	5	5	CoventBridge Group	9485 Regency Square Blvd. Ste. 200	Jacksonville	FL	32225	8889327364	8064-022513-LA	2/25/2023	
+1	5	5	Crawford Investigation Agency, LLC	1507 Fourth Street	Jonesville	LA	71343	3183398223	10045-022222-LA	2/22/2023	
+1	5	5	Crescent Investigations, LLC	PO Box 6616	Metairie	LA	70009	5044156996	0158-030493-LA	3/4/2023	
+1	5	5	Crown Professional Services, LLC	7721 Ridgewood Drive	Denham Springs	LA	70706	2254456223	9845-020821-LA	2/8/2023	
+1	5	5	CRUX Investigations, LLC	P.O. Box 1982	Baton Rouge	LA	70821	2254471909	9310-032018-LA	3/20/2023	
+1	5	5	Culpepper Professional Investigations	P.O.  Box 323	Quitman	LA	71268	3182431084	3262-060397-LA	6/3/2023	
+1	5	5	Cusick Investigations, LLC	1019 Piety St.	New Orleans	LA	70117	5046699079	9104-032217-LA	10/20/2023	
+1	5	5	D and M Investigative Services, LLC	801 Sandra Drive	Baker	LA	70714	2259552230	9680-012320-LA	1/23/2023	
+1	5	5	D&A Investigations, LLC	P.O. Box 93113	Lafayette	LA	70509	3373193271	9582-071619-LA	2/4/2023	
+1	5	5	D&D Investigative Services Inc.	P O Box 8207	Metairie	LA	70011	5048838338	0052-030493-LA	3/4/2023	
+1	5	5	D.A. Frederick Investigations	P O Box 176	Perry	LA	70575	3372803182	0704-062993-LA	6/29/2023	
+1	5	5	Dale Jones Investigations, LLC	107 Charnwood Drive	Carriere	MS	39426	6016133484	9795-102720-LA	10/27/2023	
+1	5	5	Danielle Mickenberg, LLC	2455 Gladiolus Street	New Orleans	LA	70122	5082507851	9100-032217-LA	3/22/2023	
+1	5	5	D'Arbonne Investigations	3992 Hwy 822	Dubach	LA	71235	3182453401	6716-082107-LA	8/21/2023	
+1	5	5	Data Byte Recovery and Investigations	P O Box 3	Broussard	LA	70518	3376542057	3205-040497-LA	4/4/2023	
+1	5	5	Deep South Investigations Inc.	1720 Stumpf Blvd. Ste 100	Terrytown	LA	70056	5042272107	0478-052593-LA	5/25/2023	
+1	5	5	DeFatta & Associates LLC	P O Box 498	Keithville	LA	71047	3186359944	3333-080197-LA	8/1/2023	
+1	6	6	Defense Investigators Group, Inc.	P O Box 119	Hanson	MA	02341	7812934777	7015-122308-LA	12/23/2023	
+1	6	6	Delta Associated Investigations, Inc.	P O Box 3129	Suwanee	GA	30024	80032941439047042348	8169-091813-LA	9/18/2023	
+1	6	6	Delta Investigations and Research Security Agency	P O Box 57675	New Orleans	LA	70157	5044537648	4566-073100-LA	7/31/2023	
+1	6	6	DELTA RECON	304 Wyly Drive	Lake Providence	LA	71254	3182822622	3052-111596-LA	11/15/2023	
+1	6	6	Deniesee Robertson	PO Box 2651	Patterson	LA	70392	9853972257	9182-071917-LA	7/19/2023	
+1	6	6	Dennis Trocchiano Investigations	PO Box 1852	Chalmette	LA	70044	5046840012	1712-111695-LA	11/16/2023	
+1	6	6	DES Investigations, LLC	82070 James Jenkins Rd.	Bush	LA	70431	9856302107	8927-071916-LA	7/19/2023	
+1	6	6	Digistream South Florida, Inc.	417 Mace Blvd. J-129	Davis	CA	95618	8007474329	8821-032916-LA	3/29/2023	
+1	6	6	DISA Global Solutions, Inc.	10900 Corporate Centre Dr., Ste.  250	Houston	TX	77041	2816732562	9735-060220-LA	6/2/2023	
+1	6	6	Discovery Investigation Solutions, LLC	P O Box 53292	Shreveport	LA	71135	3184599123	8292-031914-LA	3/19/2023	
+1	6	6	Discovery Investigations	250 International Parkway, Ste. 100	Lake Mary	FL	32746	8002172464	9440-103018-LA	10/30/2023	
+1	6	6	Discreet Investigations	2113 E. Longhills Road	Benton	AR	72019	5017783304	6455-081806-LA	8/18/2023	
+1	6	6	Discreet Investigative Services	512 Gordon Ave.	Harahan	LA	70123	5044515292	9955-081621-LA	8/16/2023	
+1	6	6	DKR Executive Services LLC	10305 Oakline Drive	Baton Rouge	LA	70809	7033888102	8172-091813-LA	9/18/2023	
+1	6	6	Dominion, LLC	70283 10th Street	Covington	LA	70433	5042376859	10002-111821-LA	11/18/2022	
+1	6	6	Don Carter Detective Agency	3350 Ridgelake Drive, Suite 200	Metairie	LA	70002	5045595871	4978-100301-LA	12/4/2023	
+1	6	6	Donan Engineering Co., Inc.	12450 Lake Station Place	Louisville	KY	40299	8004825611	8211-120213-LA	12/2/2023	
+1	6	6	D-TECH, LLC	1612 Versailles Business Pkwy # 2010	Covington	LA	70471	6193066812	9866-031621-LA	3/16/2023	
+1	6	6	Dugas Legal Investigative Services	PO Box 652	Schriever	LA	70395	9852621299	3232-051697-LA	5/16/2023	
+1	6	6	Durke's Investigations	138 Landreaux Dr.	West Monroe	LA	71291	3186144527	5956-011905-LA	9/20/2023	
+1	6	6	Eagle Acuity Investigations, LLC	P O Box 77056	Baton Rouge	LA	70879	22533031462259281822	8748-111715-LA	11/17/2023	
+1	6	6	Eagle Eye Enterprises & Investigations	P O Box 641963	Kenner	LA	70064	5044328607	0331-042793-LA	4/27/2023	
+1	6	6	Eagle Eye Investigators	1089 Chawee Rd.	Breaux Bridge	LA	70517	2252290770	4416-030900-LA	3/9/2023	
+1	6	6	Echols & Associates	P O Box 6206	Slidell	LA	70469	9857741714	2089-100496-LA	10/4/2023	
+1	6	6	EF Research, LLC	P.O.Box 77159	Baton Rouge	LA	97159	2252911498	4042-051499-LA	5/14/2023	
+1	7	7	Effective Investigative Solutions, LLC	P O Box 744	Marrero	LA	70073	5049570052	6185-072005-LA	7/20/2023	
+1	7	7	EFI Global Inc.	3010 Lakeland Cove, Ste. E	Flowood	MS	39232	6013973473	5739-051804-LA	10/6/2023	
+1	7	7	Eladio J. Valdez III	3157 Gentilly Blvd., Box 105	New Orleans	LA	70122	3129897700	9131-051817-LA	5/18/2023	
+1	7	7	Encore Investigations & Consulting Comp. LLC	P O Box 2642	Crowley	LA	70527	3374581244	6332-032106-LA	3/21/2023	
+1	7	7	Envista Forensics, LLC	3002 Dow Ave. #120	Tustin	CA	92780	8887823473	6405-061406-LA	5/22/2023	
+1	7	7	ERMS Special Investigations and Recovery LLC	P O Box 11944	Alexandria	LA	71315	3186640572	6774-111607-LA	11/16/2023	
+1	7	7	Espy Investigations	15823 Chantilly Ave.	Baton Rouge	LA	70817	2252790890	9975-093021-LA	9/30/2023	
+1	7	7	Ethan Brown, LLC	4925 Constance Street	New Orleans	LA	70115	9175847955	10175-110322-LA	11/3/2023	
+1	7	7	Ethos Risk Services, LLC	P.O. Box 55246	St. Petersburg	FL	33732	8667830525	8551-031215-LA	3/12/2023	
+1	7	7	Exemplar Enterprises Inc.	P O Box 467	Westwego	LA	70096	5043286989	0485-052593-LA	5/25/2023	
+1	7	7	Fact Finder Investigations	918 Saint Charles  Street	Lafayette	LA	70501	8325155050	9506-022619-LA	2/26/2023	
+1	7	7	Falcon's Private Investigations, L.L.C.	106 Landry Street	Donaldsonville	LA	70346	2253234114	8225-120913-LA	12/9/2022	
+1	7	7	Financial Risk Mitigation, Inc.	2332 North Arnoult Rd	Metairie	LA	70001	5046200686	5806-072104-LA	7/21/2023	
+1	7	7	Fire Cause Investigations	12785 State Hwy. 64  East	Tyler	TX	75707	9035661980	1937-052296-LA	5/13/2023	
+1	7	7	Firensics, Inc.	1410 Lakeside Parkway, Ste 100	Flower Mound	TX	75028	2146416505	9128-051817-LA	11/15/2023	
+1	7	7	First Advantage Background Services Corp.	1 Concourse Parkway NE, Suite 200	Atlanta	GA	30328	6787107262	3870-111298-LA	11/12/2023	
+1	7	7	Focus Investigations & Research, LLC	P O Box 1505	Hammond	LA	70404	9855174000	6186-072005-LA	7/20/2023	
+1	7	7	Forensic Investigations Group, L.L.C.	82001 Hwy 1129	Covington	LA	70435	9858711459	5524-072303-LA	7/23/2023	
+1	7	7	Forensic Research Digest,Inc. dba David Cook Invest.	1615 Poydras Street, Ste. 900	New Orleans	LA	70112	5045345339	9650-111919-LA	11/19/2023	
+1	7	7	Foresight, LLC	4636 Sanford St.	Metairie	LA	70006	5046286413	0283-033093-LA	3/30/2023	
+1	7	7	Frank McCardell Investigator	109 Alonda Dr	Lafayette	LA	70503	3379892086	0255-033093-LA	3/30/2023	
+1	7	7	Frasco, Inc.	215 W. Alameda Avenue	Burbank	CA	91502	8772727261	8766-011916-LA	1/19/2024	
+1	7	7	Fraud Fighters, Inc. dba Prodigy Investigations	2600 Michelson Dr., Suite 160	Irvine	CA	92612	8005766116	9972-092721-LA	9/27/2023	
+1	7	7	Frazier & Associates Investigative Services	P.O. Box 29391	New Orleans	LA	70189	9858636010	3845-102198-LA	10/21/2023	
+1	7	7	Full Spectrum Investigation & Consultant Agency LLC	14712 Brightview Court	Baton Rouge	LA	70819	2252200039	9214-091917-LA	9/19/2023	
+1	8	8	Gary Eldredge Criminal Investigations	205 S Scott St	New Orleans	LA	70119	5045250944	0221-033093-LA	3/30/2023	
+1	8	8	GEB Investigations	4599 Beech Springs Rd	Quitman	LA	71268	3183938590	5117-040302-LA	4/3/2023	
+1	8	8	Genesis Information Services, Inc	9029 Jefferson Hwy, Ste. D-109	New Orleans	LA	70123	5042529133	7739-082211-LA	8/22/2023	
+1	8	8	Georgantas Claims Service, Inc.	1770 S. Randall Rd., #A150	Geneva	IL	60134	8883653940	9964-092121-LA	9/21/2023	
+1	8	8	Gibson Investigations Agency, LLC	425 South 20th Street	Baton Rouge	LA	70806	5042378696	9269-011818-LA	1/18/2023	
+1	8	8	Gillespie Forensics and Investigations	2501 South Bagdad Road, Ste. B	Leander	TX	78641	5126805851	7311-011910-LA	1/19/2023	
+1	8	8	Gillian E. Ross L.L.C.	P O Box 19501	New Orleans	LA	70179	7138203011	7533-112210-LA	11/22/2023	
+1	8	8	Global Data Fusion, LLC dba Ed Roy, Ltd.	P O Box 53889	Lafayette	LA	70505	3372333816	6333-032106-LA	3/21/2023	
+1	8	8	Global Investigations Inc.	P O Box 473	Fayetteville	GA	30214	4705290537	5805-072104-LA	7/21/2023	
+1	8	8	Global Investigations of Louisiana, LLC	118 Cobb Road	Lake Charles	LA	70607	3376050152	8253-012114-LA	1/21/2023	
+1	8	8	Godeau's Private Investigative Services, LLC	P O Box 799	Iota	LA	70543	3375805921	9412-091818-LA	9/18/2023	
+1	8	8	Godfrey & Associates Property Mgmt. LLC	P O Box 217	Brusly	LA	70719	2252293937	7043-021009-LA	2/10/2023	
+1	8	8	Grandeur Private Investigations	8301 Twin Bridges Road	Elmer	LA	71424	3185413618	9209-091917-LA	9/19/2023	
+1	8	8	Gravel Investigations	P O Box 5066	Alexandria	LA	75066	3184432021	0073-030493-LA	3/4/2023	
+1	8	8	Great or Small Investigations Agency (G.S.I.) Inc	313 Beaupre Dr	Luling	LA	70070	5044873383	4962-091801-LA	9/18/2023	
+1	8	8	GTL Investigations Unlimited, LLC	601 Glover Street	Lake Charles	LA	70605	3375261515	0652-062993-LA	11/15/2022	
+1	8	8	Guice Private Investigation Agency L.L.C.	174 Ellis Landing Road	Harrisonburg	LA	71340	3187580000	3676-040998-LA	4/9/2023	
+1	8	8	Gulf Coast Fire Invest., Research & Education, LLC	261 Chapel Loop	Mandeville	LA	70471	9858453065	8561-031715-LA	3/17/2023	
+1	8	8	Gulf Coast Investigative Services, LLC	P.O. Box 80914	Lafayette	LA	70598	7037256140	10000-111721-LA	11/17/2023	
+1	8	8	H & A Private Investigation Consultants, LLC	P.O. Box 770	Gramercy	LA	70052	9852124950	9967-092321-LA	9/23/2022	
+1	8	8	H.L.M. & Associates, LLC	P O Box 71502	Metairie	LA	70033	5044919176	5746-051804-LA	7/8/2022	
+1	8	8	Hahn Investigative Services Inc.	1234 Verdun Dr	Baton Rouge	LA	70810	2257666616	0078-030493-LA	3/4/2023	
+1	8	8	Halbert, Gereighty and Associates	4 Billyday Ave	Kenner	LA	70065	5044177777	3308-071697-LA	7/16/2023	
+1	8	8	Haley Investigative Services	6124 W. Azalea Drive	Lake Charles	LA	70605	3374782392	3163-031297-LA	3/12/2023	
+1	8	8	Hall and Associates	P O Box 1193	Shreveport	LA	71163	3187974227	3914-011999-LA	1/19/2023	
+1	9	9	Hanrahan Investigations, Inc.	4413 Roosevelt Road, Suite 110	Hillside	IL	60162	7083431888	8745-111715-LA	11/17/2023	
+1	9	9	Hawk Eye Investigations and Recovery, LLC	67916 Brook Dove Drive	Covington	LA	70433	9854008789	9969-092321-LA	9/23/2023	
+1	9	9	Hawkeye Investigations, LLC	1295 Clearwater Drive	Mandeville	LA	70471	9859512232	9863-031621-LA	3/16/2023	
+1	9	9	Hazelwood Recovery and Investigations	P O Box 38	Loreauville	LA	70552	33738085473379446043	5840-072704-LA	7/27/2023	
+1	9	9	Henderson Investigations & Consulting, LLC	10053 Florida Blvd., #537	Walker	LA	70785	2254135463	9986-101421-LA	10/14/2023	
+1	9	9	HireRight, LLC	100 Centerview Drive, Suite 300	Nashville	TN	37214	6155772439	6925-072308-LA	7/23/2023	
+1	9	9	Holmes Detective Agency LLC	P O Box 29251	Shreveport	LA	71149	3182942191	8163-090413-LA	11/13/2023	
+1	9	9	Homan & Associates	2800 Youree Drive #470	Shreveport	LA	71104	3185053859	8685-090115-LA	7/16/2023	
+1	9	9	Homeland Investigations	34 Moss Drive	LaPlace	LA	70068	85566527415042342665	6912-070908-LA	7/9/2023	
+1	9	9	Hookfin Bail Bonds & Legal Services, LLC	10030 Hwy 449	Greensburg	LA	70441	9852478787	9998-111721-LA	11/17/2022	
+1	9	9	Hot Poker of Justice, LLC	4148 Palm Street	Baton Rouge	LA	70808	3377948873	9896-051021-LA	5/10/2023	
+1	9	9	Hovey Investigations & Associates, LLC	210 Sleepy Hollow Dr	Lafayette	LA	70506	3372987354	6662-052207-LA	7/5/2023	
+1	9	9	Hub Enterprises, LLC	P O Box 3162	Lafayette	LA	70502	8008730933	0439-042793-LA	4/27/2023	
+1	9	9	Humane Society of Louisiana	P O Box 740321	New Orleans	LA	70174	9012684432	4607-082300-LA	8/23/2023	
+1	9	9	Hyatt Investigations & Process Service, LLC	P.O. Box 13292	Lake Charles	LA	70612	3374779361	4211-083099-LA	8/30/2023	
+1	9	9	I.S.I.S. (Integrated Security & Invest. Specialists, LLC)	PO Box 1041	Youngsville	LA	70592	3374517117	8174-091813-LA	9/18/2023	
+1	9	9	IBM Investigations, LLC	120 Greenbriar Drive	West Monroe	LA	71291	8708457888	9373-072618-LA	7/26/2023	
+1	9	9	In "House" Investigations LLC	1414 Dement Road	Doyline	LA	71023	3184700273	8972-092016-LA	9/20/2022	
+1	9	9	Indest Investigations	96 Woodlake Blvd.	Kenner	LA	70065	5044515912	0243-033093-LA	3/30/2023	
+1	9	9	Infinite Investigations, LLC	16072 Derby Avenue	Baton Rouge	LA	70816	2259164402	8557-031715-LA	3/17/2023	
+1	9	9	Infiniti Investigations	P O Box 578	Carencro	LA	70520	3372988507	2071-091196-LA	9/11/2023	
+1	9	9	Information Discovery Services, LLC	3014 SE Loop 820 Freeway	Fort Worth	TX	76140	8175513898	6052-031605-LA	8/30/2022	
+1	9	9	Informed Investigations	9029 Jefferson Highway D-225	New Orleans	LA	70123	5043829713	3589-011598-LA	1/15/2023	
+1	9	9	Insight Investigations, LLC	5720 Citrus Blvd., Unit 11114	Harahan	LA	70123	50478266505046074258	9941-072621-LA	7/26/2023	
+1	9	9	Insight Service Group, Inc.	1 Corporate Place, 55 Ferncroft Rd, Suite 300	Danvers	MA	01923	8002780550	7410-052010-LA	5/20/2023	
+1	10	10	Integritas Security Services, Inc.	12323 Beauregard	Houston	TX	77024	2816606812	6924-072308-LA	7/23/2023	
+1	10	10	Integrity First Investigations LLC	893 Little Road	Rayville	LA	71269	3184171194	9877-032621-LA	3/26/2023	
+1	10	10	Integrity Investigations Inc.	P O Box 1955	Slidell	LA	70459	8005821917	0415-042793-LA	4/27/2023	
+1	10	10	Intel Services	P.O. Box 77524	Baton Rouge	LA	70879	2259313615	1196-082394-LA	1/9/2024	
+1	10	10	International Securities & Investigation	P O Box 73727	Metairie	LA	70033	5044556077	0043-030493-LA	3/4/2023	
+1	10	10	Intrepid Investigations, LLC	P O Box 6138	Metairie	LA	70009	5044162884	3258-060397-LA	6/3/2023	
+1	10	10	Investigation Services, LLC	P.O. Box 6606	Metairie	LA	70009	5042359854	1604-083195-LA	8/31/2023	
+1	10	10	Investigation/Research Group, L.L.C.	P O Box 1750	LaCombe	LA	70445	9857689236	9006-111416-LA	11/14/2023	
+1	10	10	Investigative Analysis	P O Box 293	Burlingame	CA	94011	6503436561	0641-062993-LA	6/29/2023	
+1	10	10	Investigative Associates	PO Box 217	Ruston	LA	71273	3185131300	8021-111412-LA	11/14/2023	
+1	10	10	Investigative Claims Management L.L.C.	938 Lillian Michael Drive	Breaux Bridge	LA	70517	3372449321	1273-112994-LA	11/29/2022	
+1	10	10	Investigative Excellence	2320 Dove Hollow Drive	Baton Rouge	LA	70809	2259217478	4683-102700-LA	10/27/2023	
+1	10	10	Investigative Security Solutions, LLC	P.O. Box 372	Norco	LA	70079	5044159118	10046-022222-LA	2/22/2023	
+1	10	10	Investigative Services of Lafayette, Inc.	P O Box 3994	Lafayette	LA	70502	3379899486	0009-030493-LA	3/1/2023	
+1	10	10	Investigative Services Unlimited, LLC	P O Box 824	Lake Charles	LA	70602	3374941705	0138-030493-LA	3/4/2023	
+1	10	10	Investigative Specialists L.L.C.	P O Box 183	Slidell	LA	70459	9855703535	0857-092893-LA	9/28/2023	
+1	10	10	Investigators, LLC	1950 2nd Street, # 193	Slidell	LA	70459	9855025935	9679-012220-LA	1/22/2023	
+1	10	10	J and J Research	33 Wilshire Dr	Bossier City	LA	71111	3187528320	2041-080896-LA	10/4/2023	
+1	10	10	J S Investigations	P.O. Box 6840	Slidell	LA	70469	9858479954	0147-030493-LA	3/4/2023	
+1	10	10	J T Investigations, LLC	3909 Colorado Avenue	Kenner	LA	70065	5049311408	8237-122013-LA	5/25/2023	
+1	10	10	J. Darden Investigations	874 Hwy 3009	St. Joseph	LA	71366	3187191535	6664-052307-LA	5/23/2023	
+1	10	10	J. T. Becker & Company	P.O. Box 444	Carnegie	PA	15106	4122791500	9406-091218-LA	9/4/2023	
+1	10	10	J.R. "Bob" Wheeldon Pre-Trial Investigations	P O Box 1692	Lake Charles	LA	70602	33747449153375151914	0308-033093-LA	3/30/2023	
+1	10	10	J.R. Morse Associates, Inc.	402 Carthage Drive	Houma	LA	70360	9858048924	5598-101003-LA	4/7/2023	
+1	10	10	JB Consulting & Investigative Services, LLC	16514  Highway 930	Prairieville	LA	70769	2253134562	9038-011717-LA	1/17/2023	
+1	11	11	JMAC Investigations & Solutions L.L.C.	P.O. Box 84102	Baton Rouge	LA	70884	2254079111	8870-051816-LA	5/18/2023	
+1	11	11	JNM, LLC	P O Box  92172	Lafayette	LA	70509	5042206600	9000-102616-LA	10/26/2023	
+1	11	11	John Stone Enterprises	P O Box 2472	Mandeville	LA	70470	9856308126	4247-091699-LA	9/16/2023	
+1	11	11	Johnson Investigations, Inc.	P O Box 1348	Texarkana	AR	75504	8707731404	5135-041902-LA	4/9/2023	
+1	11	11	Jon Bullock Private Invest. dba WMW & Associates of LA	12395 Mansfield Rd. #444	Keithville	LA	71047	3182949240	7394-051010-LA	5/10/2023	
+1	11	11	Jones Investigative Services	6003 Fox Chase Circle	Shreveport	LA	71129	3184708656	1460-042695-LA	6/13/2023	
+1	11	11	JPM Investigations, LLC	365 Garr Road	Ruston	LA	71270	3186146733	8873-051816-LA	5/18/2023	
+1	11	11	JR Ruff and Associates, Inc.	P O Box 947	Emporia	KS	66801	3182070618	6141-060105-LA	6/1/2023	
+1	11	11	JW's Creative Solutions, LLC	P.O. Box 19183	New Orleans	LA	70179	5044505545	8902-061416-LA	6/14/2023	
+1	11	11	K.P. Investigations, Inc.	P.O. Box 3442	Gilbert	AZ	85299	6028093508	9733-060220-LA	6/2/2023	
+1	11	11	Kaczmarek & Associates, Inc.	205 E. Butterfield #461	Elmhurst	IL	60126	8153017609	9725-050420-LA	5/4/2023	
+1	11	11	Karcher & Associates, LLC	1527 Gause Blvd, Ste 131	Slidell	LA	70461	7196595954	8693-091515-LA	9/15/2023	
+1	11	11	Kavanaugh Investigative Services	P O Box 1204	Ruston	LA	71273	3185489108	6922-072308-LA	7/23/2023	
+1	11	11	Kelmar and Associates, Inc.	23119 IH-10 West, Bldg.#6	San Antonio	TX	78257	2103420509	7124-051909-LA	5/19/2023	
+1	11	11	Ken Grissom	202 Metairie Court	Lafayette	LA	70503	3372589483	9179-071917-LA	7/19/2023	
+1	11	11	Kindred Investigations, Inc.	1334 Saint Roch Avenue	New Orleans	LA	70117	8153559763	9236-111417-LA	11/14/2023	
+1	11	11	Kingsguard, Inc.	4440 Chastant St., Suite C	Metairie	LA	70006	5047290731	7948-071712-LA	7/17/2023	
+1	11	11	KJC Investigative Services, LLC	4400 Ambassador Caffery Pkwy,Suite A # 338	Lafayette	LA	70508	3373033538	9810-120120-LA	12/1/2023	
+1	11	11	Klees Investigative Agency	524 Fairfield Avenue	Gretna	LA	70056	5043687117	0813-083193-LA	8/31/2022	
+1	11	11	Kline's Investigative Services, LLC	112 Clause Lane	Lafayette	LA	70507	3379626697	7171-072209-LA	7/22/2023	
+1	11	11	Knight Personal Protection	848 Brinwood Avenue	Baton Rouge	LA	70815	2259549819	10024-121721-LA	12/17/2023	
+1	11	11	L Jones CFA, LLC	30740 Ford Place	Denham Springs	LA	70726	2253245171	9307-032018-LA	3/20/2023	
+1	11	11	L. Peters & Associates	5000 West Esplande Ave., Suite 429	Metairie	LA	70006	5049404828	6666-052307-LA	5/23/2023	
+1	11	11	Lagniappe Research and Investigations	191 Davidson Rd	Mansfield	LA	71052	3184710160	5405-031903-LA	3/19/2023	
+1	11	11	LaSalle Investigations Inc.	P.O. Box 33	Jena	LA	71342	3182155058	9730-060220-LA	6/2/2023	
+2	4	12	LaTex Land Title & Investigative Services	316 Claiborne Street	Pineville	LA	71360	3184518613	8903-061416-LA	6/14/2023	
+2	4	12	Latiolais Process Servers (L.P.S.)	1011 Kimble Dr	Breaux Bridge	LA	70517	3372571268	3801-080498-LA	8/4/2023	
+2	4	12	LAW Investigative Group, LLC	P.O. Box 471	Ridgeland	MS	39158	6016679273	6374-051706-LA	7/11/2023	
+2	4	12	Lawrence Investigations	1315 Cypress Street	West Monroe	LA	71291	3183556808	0025-120810-LA	5/22/2023	
+2	4	12	Lazer Claims Investigations & Security Service LLC	1110 Sixth St	Morgan City	LA	70380	9853849055	0019-030493-LA	3/4/2023	
+2	4	12	Lee Technical Services	440 Mr. Ed Lane	Natchitoches	LA	70601	3373041805	0252-033093-LA	5/8/2023	
+2	4	12	Legal Investigative Services, Inc.	888 Tara Blvd., Ste. G	Baton Rouge	LA	70806	5046697445	8971-092016-LA	10/19/2023	
+2	4	12	Legitimate Investigation Services	P O Box 647	Port Allen	LA	70767	2253553107	9329-050418-LA	5/22/2023	
+2	4	12	Lemieux & Associates, LLC	110 Washinton Ave. 2nd Floor	North Haven	CT	06473	2037808021	9421-100418-LA	10/4/2023	
+2	4	12	Leonard and Son's Investigations (LSI)	297 Settlers Park Drive	Shreveport	LA	71115	3188207376	5718-040504-LA	6/15/2023	
+2	4	12	Let Me Be Your Eyes Private Investigator Services	P.O. Box 37754	Shreveport	LA	71133	3182108286	8829-033116-LA	3/31/2023	
+2	4	12	LHS Investigative Services, LLC	9851 E. Wheaton Circle	New Orleans	LA	70127	5044303124	8357-052014-LA	5/20/2023	
+2	4	12	Lindsey Benglis Investigation & Associates	873 Desoto St.	Lake Charles	LA	70607	3378026898	6926-072308-LA	7/23/2023	
+2	4	12	LINK Detective Agency, Inc	P O Box 53005	Lafayette	LA	70505	3372329990	4060-051499-LA	5/14/2023	
+2	4	12	LKK & Associates, LLC	P O Box 37633	Shreveport	LA	71133	3185188592	6505-102406-LA	10/24/2023	
+2	4	12	Lomas Investigations, LLC	119 Trojan Place	Lafayette	LA	70508	3372305887	9692-020320-LA	2/3/2023	
+2	4	12	Long Branch Investigations	561 Robert Howard Rd.	Farmerville	LA	71241	3182450417	9731-060220-LA	6/2/2023	
+2	4	12	Louisiana Investigative & Protective Services, LLC	P.O. Box 770017	New Orleans	LA	70177	5046450796	7619-032211-LA	3/22/2023	
+2	4	12	Louisiana Investigative Specialists	1319 N. Vienna Street	Ruston	LA	71270	3185132501	9553-052219-LA	5/22/2023	
+2	4	12	Louisiana State Investigations	4099 Old Gainesville Road	Waveland	MS	39520	5045754696	4379-020400-LA	2/4/2023	
+2	4	12	Lucas Investigations, LLC	8712 Jefferson Hwy, Suite B	Baton Rouge	LA	70809	2253445461	9787-100620-LA	10/6/2022	
+2	4	12	Lyons Research Group	5261 Highland Rd. Suite 321	Baton Rouge	LA	70808	2257665575	1068-041294-LA	4/12/2023	
+2	4	12	M&M Investigations, LLC	P O Box 10	Daphne	AL	36526	2515543038	9336-051618-LA	5/16/2023	
+2	4	12	M.A. Stringer & Associates, Inc.	73081 Becky Road	Covington	LA	70435	9858934929	5312-102102-LA	10/21/2023	
+2	4	12	Mackenzie's Research Co.	5331 Church Point Hwy	Rayne	LA	70578	3372474779	0631-062993-LA	6/29/2023	
+2	5	13	Magnolia Investigations of Louisiana, LLC	517 Trappey Road	Carencro	LA	70520	3379455051	9215-092017-LA	9/20/2023	
+2	5	13	Magri and Ballay Investigative Services, LLC	2432 Elliott Steet	Alexandria	LA	71301	9852424364	0407-042793-LA	4/27/2023	
+2	5	13	Maher Detective Agency	P O Box 740233	New Orleans	LA	70174	5044272561	5261-082802-LA	8/28/2023	
+2	5	13	Marine & Casualty Backgrounds, L.L.C.	1429 Marina Drive	Slidell	LA	70458	5042507770	0549-052593-LA	5/25/2023	
+2	5	13	Mark B Chiasson - Private Investigator	201 Hidden Grove Place	Lafayette	LA	70503	3372803700	3898-121098-LA	12/10/2023	
+2	5	13	Marshall Investigative Group, Inc.	PO Box 681	Park Ridge	IL	60068	8553506474	8749-111715-LA	11/17/2023	
+2	5	13	Mascaro Consulting Services, Inc.	P O Box 3772	Covington	LA	70434	9856261750	4933-091801-LA	9/20/2023	
+2	5	13	McCoy Investigations	P O Box 667	Bunkie	LA	71322	3186132675	3413-100197-LA	10/1/2023	
+2	5	13	MCX Associates, LLC	115 Western Lane	Lafayette	LA	70507	3372371444	5886-092104-LA	9/21/2023	
+2	5	13	Merge Investigations, Inc.	PO Box 6326	Lancaster	PA	17607	7179455399	9338-051618-LA	5/16/2023	
+2	5	13	Meridian Investigative Group, Inc.	6822 22nd Ave., N, Ste. 119	St. Petersburg	FL	33710	8008304022	7219-091509-LA	9/15/2023	
+2	5	13	Messenger Investigations, LLC	P.O. Box 717	Cecilia	LA	70521	3375013646	8444-092914-LA	9/29/2023	
+2	5	13	Metro Private Investigations, Inc.	906 N. Memorial Parkway	Huntsville	AL	35801	8002393200	7169-072209-LA	7/22/2023	
+2	5	13	MG Brooks, LLC	1424 Heck Young Rd.	Baker	LA	70714	2253379147	8136-071613-LA	7/16/2023	
+2	5	13	Michael Dale Breaux, LLC	4700 Hwy 22, #501	Mandeville	LA	70471	9859600517	9258-122717-LA	12/27/2022	
+2	5	13	Michael Hebert Investigations	PO Box 1001	Broussard	LA	70518	3372583392	7047-021209-LA	2/12/2023	
+2	5	13	Migues Investigative Agency, LLC	101 Gaugin Lane	Rayne	LA	70578	3372986803	9181-071917-LA	7/19/2023	
+2	5	13	MJT Enterprises, LLC	22 Suwanee Drive	Covington	LA	70435	9852591565	9309-032018-LA	3/20/2023	
+2	5	13	Mondello Invest. & Paralegal Srvs Inc.	P O Box 96	Hall Summit	LA	71034	3184585661	1251-110194-LA	11/1/2023	
+2	5	13	Morgan Freeman Investigative Services	3635 Greenacres Drive # 344	Bossier City	LA	71111	3184696469	0066-030493-LA	3/4/2023	
+2	5	13	Morgan Investigation Agency	P O Box 825	Port Allen	LA	70767	2256038584	0987-013194-LA	1/31/2023	
+2	5	13	Morris Investigations and Surveillance	172 Evangeline Trace	Bellle Chasse	LA	70037	5049123658	9990-110121-LA	11/1/2023	
+2	5	13	National Investigations, L.L.C.	P O Box 873	Slidell	LA	70459	9857262400	7522-111710-LA	11/17/2023	
+2	5	13	Nationwide Bail Bonds & Investigations	12281 Cuti Lane	Roseland	LA	70456	2256831111	6678-060707-LA	9/20/2023	
+2	5	13	Network Strategist	P O Box 740567	New Orleans	LA	70174	5043619774	1129-052594-LA	5/25/2023	
+2	6	14	New England Fire Cause & Origin, Inc.	P.O. Box 7399	Rochester	NH	03839	6033309889	8047-012313-LA	1/23/2024	
+2	6	14	New Orleans Private Investigations, LLC	762 N. 2nd Street	Bay Saint Louis	MS	39520	5044278184	7482-092210-LA	5/5/2023	
+2	6	14	Next Generation Investigation Services, LLC	141 Allen Toussaint Blvd, #239	New Orleans	LA	70124	5043424191	0416-042793-LA	9/22/2023	
+2	6	14	Nicole Heisser's Investigations	3157 Gentilly Blvd. Box 105	New Orleans	LA	70122	5043213077	5328-112602-LA	4/6/2023	
+2	6	14	Nightshadows	213 Long Leaf Court	Ponchatoula	LA	70454	9859817046	9334-051618-LA	5/16/2023	
+2	6	14	Nissen Unlimited & Associates Inc.	10454 Goldsberry Road	Shreveport	LA	71106	3184264536	0766-072793-LA	11/21/2023	
+2	6	14	Norman R. Lowe Investigations	5021 Newlands St.	Metairie	LA	70006	5046152099	6710-072507-LA	7/25/2023	
+2	6	14	North Delta Investigations	P. O. Box 1718	Bastrop	LA	71220	3182836383	0058-030493-LA	3/4/2023	
+2	6	14	North Starr	P O Box 383	Livingston	LA	70754	2254852983	8173-091813-LA	9/18/2023	
+2	6	14	Northshore Investigations	845 University Court	Mandeville	LA	70448		7310-011910-LA	1/19/2023	
+2	6	14	NWI Investigative Group, Inc.	10 Walnut Hill Park	Woburn	MA	01801	7819357770	6625-032107-LA	3/21/2023	
+2	6	14	Observations Unlimited, L.L.C.	232-B Little John Drive	Baton Rouge	LA	70815	2252814779	0380-042793-LA	10/13/2023	
+2	6	14	Occupational Resources, Inc.	P O Box 10649	New Orleans	LA	70181	5046551171	1455-042695-LA	4/26/2023	
+2	6	14	Olasky Investigations, LLC	811 N. Johnson Street	New Orleans	LA	70116	5047178483	8560-031715-LA	3/17/2023	
+2	6	14	Olds Investigative Services, LLC	449 Shenandoah Drive	Shreveport	LA	71115	3184693470	7173-072209-LA	7/22/2023	
+2	6	14	Orleans Investigations, LLC	P.O. Box 56817	New Orleans	LA	70156	5045257676	5655-012004-LA	1/20/2023	
+2	6	14	Ouachita Investigative Services	PO Box 873	West Monroe	LA	71294	3188840092	7158-062309-LA	6/23/2023	
+2	6	14	P & M Investigations	P O  Box 90741	Lafayette	LA	70509	3375938246	1522-062295-LA	6/22/2023	
+2	6	14	P. I. Ducks, Inc.	5919 Clearview Cr	Bossier City	LA	71111	3185187238	3269-060397-LA	12/22/2023	
+2	6	14	P.I. Pros, LLC	P.O. Box 223	Midway	AR	72651	8703210606	9995-110521-LA	11/5/2023	
+2	6	14	Pace Investigations, LLC	P O  Box 206	Gresham	SC	29546	8433198646	7768-101011-LA	10/10/2023	
+2	6	14	Pallorium Inc.	P O Box 155 Midwood Station	Brooklyn	NY	11230	2129690286	4474-042000-LA	4/20/2023	
+2	6	14	Paradigm Investigations	1 Galleria Blvd., Suite 1900	Metairie	LA	70001	5044216981	8171-091813-LA	9/18/2023	
+2	6	14	Paragon Services	P. O. Box 724	Houma	LA	70361	3372785376	8746-111715-LA	11/17/2023	
+2	6	14	Paul Lopez Legal Investigations	P.O. Box 541	DeRidder	LA	70634	3374634700	5687-022604-LA	2/26/2023	
+2	7	15	Payne Investigations	4612 New Natchitoches Rd.	West Monroe	LA	71292	3183553543	6532-112106-LA	11/21/2016	
+2	7	15	Pelican Investigative Services, LLC	102 Lockeport Cir.	Lafayette	LA	70508	3372776300	9946-073021-LA	7/30/2023	
+2	7	15	PELTA Protective Specialists, LLC	259 Northland Blvd., Ste. G	Cincinnati	OH	45246	5132973990	10003-111821-LA	11/18/2023	
+2	7	15	Peppertone Research Group	P O Box 2563	Baton Rouge	LA	70821	8669444490	4302-110899-LA	11/8/2023	
+2	7	15	Persons of Interest Investigations & Consulting	14241 Coursey Blvd., Ste. A12 #333	Baton Rouge	LA	70817	2257556677	9911-061821-LA	6/18/2023	
+2	7	15	Petro-Marine Investigation Service Inc.	9809 River Ridge Drive	River Ridge	LA	70123	5044505969	0463-042793-LA	4/27/2023	
+2	7	15	P-EYE, L.L.C.	P O Box 10	Slidell	LA	70459	5045543656	5516-072303-LA	7/23/2023	
+2	7	15	PhotoFax, Inc.	P O Box 225	Gilberts	IL	60136	8476833724	6757-102307-LA	10/23/2023	
+2	7	15	Pinkerton Consulting & Investigations Inc.	101 North Main Street, Suite 300	Ann Arbor	MI	48104	2489480071	5700-031804-LA	3/18/2023	
+2	7	15	PK's Process Service Plus Inc.	P O Box 74751	Metairie	LA	70033	5044520519	3095-011797-LA	1/17/2023	
+2	7	15	Porter's Investigations Agency	212 Clearview Ln	Benton	LA	71006	3189650468	5562-092303-LA	9/23/2023	
+2	7	15	Premier Protection and Investigations, LP	5906 Delores Street, Suite 225	Houston	TX	77057	7136838000	9654-111919-LA	11/19/2023	
+2	7	15	Prevost Edmund A.	P O Box 1178	Mandeville	LA	70470	9857279109	1472-050895-LA	5/8/2023	
+2	7	15	Professional Service Providers Network, Inc.	P.O. Box 1607	Mansfield	LA	71052	3184617841	9841-011521-LA	1/15/2023	
+2	7	15	Professional Services Bureau	P O Box 82535	Lafayette	LA	70598	3378391833	0163-030493-LA	3/4/2023	
+2	7	15	Pronet Group, Inc.	1 Sugar Creek Center Blvd. Ste. 1100	Sugarland	TX	77478	8002167268	5329-120602-LA	12/6/2023	
+2	7	15	Provident Investigations	4347 Choctaw Road	Brusly	LA	70719	2252873473	9970-092321-LA	9/23/2023	
+2	7	15	Prudence Investigative Organization Inc.	P.O. Box 452914	Kissimmee	FL	34745	4075567600	8706-092915-LA	9/29/2023	
+2	7	15	Quality Investigative Group	P O Box 81365	Lafayette	LA	70598	3372351016	3360-080197-LA	8/1/2023	
+2	7	15	R. B. J. Investigations	P O Box 13583	New Orleans	LA	70185	5044757725	8728-102015-LA	11/13/2022	
+2	7	15	R.G. Austin Investigations	P O Box 12621	Alexandria	LA	71315	3184462884	0725-072793-LA	7/27/2023	
+2	7	15	R.S. Investigations	52530 Cypress St	Independence	LA	70443	9858783601	1734-120495-LA	12/4/2023	
+2	7	15	Randall Investigative Agency	1600 Terral Island Rd.	Farmerville	LA	71241	3183883070	0136-030493-LA	3/4/2023	
+2	7	15	Reconnaissance Investigations	7051 Sandy Hill Rd	Roanoke	LA	70581	3377532583	1388-021595-LA	2/15/2023	
+2	7	15	Reliance Detective Agency	P O Box 1494	Walker	LA	70785	2252762519	1903-050396-LA	5/24/2023	
+2	8	16	Research	5145 Tampa Drive North	Pearlington	MS	39572	5044508828	1163-071394-LA	9/3/2023	
+2	8	16	Resolve Investigations	727 2nd St., Suite 105	Natchitoches	LA	71457	3186521688	5768-052804-LA	5/28/2023	
+2	8	16	Results Investigative Services	41377 Churchpoint Road	Gonzales	LA	70737	2254505968	5118-040302-LA	9/9/2022	
+2	8	16	RetLO & Associates	P.O. Box 13834	Alexandria	LA	71315	3187927439	9912-061821-LA	6/18/2023	
+2	8	16	Reveal Investigations, LLC	2009 S. Helens Way Ave.	Gonzales	LA	70737	2257334757	9968-092321-LA	9/23/2023	
+2	8	16	Revealing Secrets Investigations	12507 Jays Road	Bastrop	LA	71220	3186692463	9139-052517-LA	3/20/2023	
+2	8	16	Reynolds Investigations	98 John Adams	Youngsville	LA	70592	3373199744	0280-033093-LA	3/30/2023	
+2	8	16	Rhonda Racca Enterprises, Inc.	P O Box 358	Breaux Bridge	LA	70517	3373163854	3920-012199-LA	1/21/2023	
+2	8	16	Richard Brooks Investigations, LLC	PO Box 4401	Brandon	MS	39047	6018620666	7715-071911-LA	7/19/2023	
+2	8	16	Rick Champagne Investigations Inc.	P O Box 7401	Slidell	LA	70469	9859662850	3503-111497-LA	11/14/2023	
+2	8	16	Rico's Investigations	107 Elderberry Ln	Opelousas	LA	70570	3379453609	3188-032797-LA	3/27/2023	
+2	8	16	Rimkus Consulting Group, Inc.	68446 James Street	Mandeville	LA	70401	5048328999	8100-040813-LA	5/16/2023	
+2	8	16	Riverbend Investigative Agency	610 Grove Avenue	Harahan	LA	70123	5049137701	8553-031615-LA	3/16/2023	
+2	8	16	RMF & Associates, LLC	P O Box 7021	Shreveport	LA	71137	3188406893	8044-012313-LA	1/23/2023	
+2	8	16	Roberts Investigations - Downsville	889 Arthur McDaniel Rd	Downsville	LA	71234	3185485742	1887-042396-LA	4/23/2023	
+2	8	16	Ronald W. Kelly and Associates	112 Bayou Perez Drive	Madisonville	LA	70447	9366350111	8358-052014-LA	5/20/2023	
+2	8	16	Ross Riles Confidential Invest. Services	6241 Rodeo Dr.	Bastrop	LA	71220	3183660602	3417-100197-LA	10/1/2023	
+2	8	16	RWI Investigations	865  E. Lexington Avenue	Gretna	LA	70056	5042890807	7659-051711-LA	5/17/2023	
+2	8	16	S M Brozgold Fire Investigations, LLC	640 N. Heathrow Drive	Lecanto	FL	34461	8175832005	8053-012513-LA	1/25/2024	
+2	8	16	S.C. Fire Consulting Inc.	22958 Colorado Drive	Porter	TX	77365	2817286970	8254-012114-LA	1/21/2023	
+2	8	16	S.K.I. Inc.	18191 NW 68th Ave., #102	Hialeah	FL	33015	8777547545	9633-101819-LA	10/18/2023	
+2	8	16	S.L. Wyatt Enterprises, LLC	8768 Wyeth Drive	Denham Springs	LA	70706	3185723983	9533-041219-LA	4/12/2023	
+2	8	16	Sara Jones Investigations	9108 Atreus Street	Chalmette	LA	70043	5043459643	9865-031621-LA	3/16/2023	
+2	8	16	Scheuermann Investigative Services LLC	1815 Hwy 26W	Poplarville	MS	39470	5043302854	8966-090816-LA	9/8/2023	
+2	8	16	Scientific Investigative Services of LA	P.O. Box 52255	Shreveport	LA	71115	3188619249	0207-033093-LA	3/30/2023	
+2	9	17	Scott  Westbrook  Investigations	403 Olive Drive	Slidell	LA	70458	5047233753	7585-020711-LA	2/7/2023	
+2	9	17	SDII Global Corporation	4509 George Rd.	Tampa	FL	33634	8134969634	9838-010521-LA	1/5/2024	
+2	9	17	Securitas Security Services USA, Inc.	c/o Lisa Collet; 4330 Park Terrace Drive	Westlake Village	CA	91361	2483750471	9109-033017-LA	3/30/2023	
+2	9	17	Security & Investigative Specialist, Inc.	1731 N. Airline Hwy	Gonzales	LA	70737	2254078134	4840-032001-LA	3/20/2023	
+2	9	17	Sedgwick SIU, Inc.	1230 East Diehl Rd., #300	Naperville	IL	60563	88876590206307186220	9018-120116-LA	12/1/2023	
+2	9	17	Sentinel Investigative Services, Inc.	3736 North Market Steet	Shreveport	LA	71107	3182279175	8132-071613-LA	7/16/2023	
+2	9	17	Shadow Point Investigations, LLC dba S-Point Investigations	4003 Salem Drive	Baton Rouge	LA	70814	2259317329	9914-061821-LA	6/18/2023	
+2	9	17	Shanks Investigations	122 Southwood Dr	Bossier City	LA	71111	3187424731	3868-111298-LA	1/20/2023	
+2	9	17	Sheepdog Consultants LLC	104 Saxony Drive	Houma	LA	70364	9858566285	9009-111516-LA	11/15/2023	
+2	9	17	Simien's Executive Security	P.O. Drawer #9	Opelousas	LA	70571	3379422222	0151-030493-LA	3/4/2023	
+2	9	17	Simmons Investigations & Recovery	5130 Audubon Lane	St. Francisville	LA	70775	9852580270	9339-051618-LA	5/16/2023	
+2	9	17	Simon Detective Agency	11093 Texas Street	Bay St. Louis	MS	39520	9857325850	9093-031417-LA	3/14/2023	
+2	9	17	Sly Fox Investigations, LLC	P O Box 318045	Baton Rouge	LA	70831	80098592542253057468	7457-072110-LA	7/21/2023	
+2	9	17	Smith & Carson, Inc.	5755 North Point Pkwy, Ste. 278	Alpharetta	GA	30022	7703502550	9675-011720-LA	1/17/2024	
+2	9	17	SOS Investigations, Inc.	6353 Joe Daniel Rd	St Francisville	LA	70775	2256355589	0123-030493-LA	3/4/2023	
+2	9	17	Southern Forensic Services, LLC	P O Box 651	Gretna	LA	70054		8694-091515-LA	11/9/2023	
+2	9	17	Southern Investigations	504 Belanger St.	Houma	LA	70360	9852745289	9979-100721-LA	10/7/2023	
+2	9	17	Southern Legal Investigations	P.O. Box 14136	Monroe	LA	71207	3183875800	0844-092893-LA	9/28/2023	
+2	9	17	Southern Research Company Inc.	P O Box 1590	Shreveport	LA	71165	3182279700	0265-033093-LA	3/30/2023	
+2	9	17	Southern Surveillance Company	P.O. Box 165	Opelousas	LA	70571	3379425585	0357-042793-LA	4/27/2023	
+2	9	17	Spyderman P I	122 Pleasant Hill Drive	Zwolle	LA	71486	3185083043	0294-033093-LA	3/30/2023	
+2	9	17	SpyTex Inc.	P O Box 320	Brownsboro	TX	75756	85577983999034770660	9538-042619-LA	4/26/2023	
+2	9	17	St. Cyr Investigations	219 N. Liberty St.	Opelousas	LA	70570	3379450108	4129-062399-LA	6/23/2023	
+2	9	17	Stallworth Detective Agency	2037 Bonaire Drive	Marrero	LA	70072	5049199952	7317-012510-LA	11/29/2023	
+2	9	17	Stanley Investigations	619 Catholique Rd	Carencro	LA	70520	3374232470	8928-071916-LA	7/19/2023	
+2	10	18	Starling Enterprises & Investigations, LLC	109 Cambridge Drive	Lafayette	LA	70503	3373199582	8876-051816-LA	5/18/2023	
+2	10	18	Statewide Surveillance & Investigations, LLC	119 Crapemyrtle Circle	Covington	LA	70433	9853732490	8134-071613-LA	7/16/2023	
+2	10	18	Stealth Intelligence Services LLC	P.O. Box 2964	Harvey	LA	70059	5045794252	9843-011921-LA	1/19/2023	
+2	10	18	Stealth Investigations - Arnaudville	P.O. Box 222	Cecila	LA	70521	3376582358	1326-121694-LA	12/16/2023	
+2	10	18	Stephens & Associates of LA, LLC	P O Box 13001	Alexandria	LA	71315	3184480953	0159-030493-LA	3/4/2023	
+2	10	18	Steve Miller and Associates Private Investigations	21 Wade Lane	Greensburg	LA	70441	2252700254	9677-012120-LA	1/21/2023	
+2	10	18	STNL Solutions, LLC	37459 Ultima Plaza Blvd., Ste B	Prairieville	LA	70769	5046210442	10166-101822-LA	10/18/2023	
+2	10	18	Summers Detective Services, LLC	14162 Bourque Road	Gonzales	LA	70737	2257739640	8997-102116-LA	9/17/2023	
+2	10	18	Sundogs LLC	319 N. Pleasant Street	Gonzales	LA	70737	2258026453	8250-012114-LA	1/21/2023	
+2	10	18	Sunrise Investigative Services	P.O. Box 2381	Cedar Park	TX	78630	3374474813	7220-091509-LA	9/15/2023	
+2	10	18	Superior Investigative Services, LLC	P. O. Box 304	Carencro	LA	70520	3372079411	6745-100207-LA	10/2/2023	
+2	10	18	Sure-Shot Investigation	P.O. Box 501	Jennings	LA	70546	3378243498	3592-012798-LA	1/27/2023	
+2	10	18	Surveillance Technologies, Inc.	265 East Augusta Lane	Slidell	LA	70458	5047229747	0918-113093-LA	11/30/2023	
+2	10	18	T C S Consulting	11095 Mark Circle	Beaumont	TX	77705	8667945710	9476-011519-LA	1/15/2023	
+2	10	18	T P Investigations	15325 Glenn Drive	Pride	LA	70770	2252410497	0132-030493-LA	3/4/2023	
+2	10	18	T.J. and Associates	1312 Severn Ave.	Metairie	LA	70001	5049152821	9811-120120-LA	12/1/2023	
+2	10	18	Tactical Investigative Solutions, LLC	325 Wilderness Trail	Minden	LA	71055	3183822754	9954-081321-LA	8/13/2023	
+2	10	18	Tactical Private Investigations, LLC	P O Box  12457	Lake Charles	LA	70612	3378556470	0480-052593-LA	5/25/2023	
+2	10	18	Talon Investigative Services, LLC	3103 Cypress St., Ste. 3-108	West Monroe	LA	71291	6012784257	9785-100620-LA	10/6/2022	
+2	10	18	Target Investigative Agency	801 Brentwood Blvd	Lafayette	LA	70503	3372808110	5280-083002-LA	10/28/2023	
+2	10	18	TCS Investigations	6757 Sumrall Drive	Baton Rouge	LA	70812	2259265880	9971-092321-LA	9/23/2023	
+2	10	18	Tectus Management Services	1011 N Causeway Blvd. # 32	Mandeville	LA	70471	5049412292	8135-071613-LA	7/16/2023	
+2	10	18	Templar Blue Solutions	P.O. Box 1624	Mandeville	LA	01624	9852768784	10167-101822-LA	10/18/2023	
+2	10	18	Terrific, Inc.	2740 Pineview St	Lake Charles	LA	70615	3378425318	1888-042396-LA	4/23/2023	
+2	10	18	The Barnett Group, L.L.C.	1331 Ochsner Blvd., Suite 200	Covington	LA	70433	9858932681	0191-033093-LA	3/30/2023	
+2	11	19	The Compliance Group, Inc.	8200 Belinder Rd	Leawood	KS	66206	9135993210	5559-090303-LA	9/3/2022	
+2	11	19	The Delta Group	P.O. Box 910	Winnfield	LA	71483	3184130333	6372-051706-LA	5/17/2023	
+2	11	19	The Fidelity Team, LLC	P.O. Box 1001	Youngsville	LA	70592	3373306789	9410-091818-LA	9/18/2023	
+2	11	19	The Homeland Security Group, LLC	P O Box 65122	Shreveport	LA	71136	3184648245	8647-072115-LA	7/21/2023	
+2	11	19	The Hudson Group	PO Box 452	Keithville	LA	71047	3185287730	6997-111908-LA	11/19/2023	
+2	11	19	The Info Agency, LLC	2305 Crestlake Drive	Rockwall	TX	75087	2143774930	5426-041103-LA	4/11/2023	
+2	11	19	The Insight Group of LA	P O Box 1001	Broussard	LA	70518	3372583392	1187-082394-LA	8/23/2023	
+2	11	19	The Investigative Group Inc.	3636 N. Causeway Blvd. Ste. 300	Metairie	LA	70002	5046699049	1956-061096-LA	6/10/2023	
+2	11	19	The Investigative Network	6333 Kovac Ln	Mer Rouge	LA	71261	3183225971	1367-020195-LA	2/1/2023	
+2	11	19	The Jadd Lakes Group, LLC	14 Harbour Town Court	New Orleans	LA	70131	5044160328	7524-111710-LA	3/7/2023	
+2	11	19	The Northshore Group, LLC	P O Box 5285	Covington	LA	70434	8669601571	5894-092704-LA	12/9/2023	
+2	11	19	The Phoenix PI, LLC	9597 Jones Rd., #257	Houston	TX	77065	3186028084	9913-061821-LA	6/18/2023	
+2	11	19	The Robison Group	3290 W. Big Beaver Rd. #310	Troy	MI	48084	8884522500	7558-121610-LA	7/21/2023	
+2	11	19	The Woodlands Investigative Group	6700 Woodlands Parkway #230-165	The Woodlands	TX	77382	7139227721	9108-032917-LA	3/29/2023	
+2	11	19	Theresa Thomassee, LLC	P.O. Box 1041	Youngsville	LA	70592	3372582716	9867-031621-LA	3/16/2023	
+2	11	19	Third Eye P.I. LLC	509 Daniel Street	Kenner	LA	70062	5049145772	5980-011905-LA	1/19/2023	
+2	11	19	Third Shore Investigations	P O Box 2152	Naperville	IL	60567	8008083125	9379-073118-LA	7/31/2023	
+2	11	19	Thunderbird Investigations, L.L.C.	P O Box 644	Sulphur	LA	70664	3376250007	3985-032599-LA	3/25/2023	
+2	11	19	Timeline Investigations, LLC	P O Box 1193	Youngsville	LA	70592	3378524310	7396-051110-LA	5/11/2023	
+2	11	19	Top Echelon Investigation, LLC	P.O. Box 997	Opelousas	LA	70570	3372901298	6981-103008-LA	10/30/2023	
+2	11	19	Tradecraft Consulting of Louisiana	185 Timbers Drive	Slidell	LA	70458	5044167402	9616-091919-LA	9/19/2023	
+2	11	19	Triple Oak Investigative Services, L.L.C.	5434 Hwy. 1	Raceland	LA	70394	9858557331	8379-070114-LA	1/22/2023	
+2	11	19	Triune Investigations	2541 South IH-35, Ste. 200-153	Round Rock	TX	78664	2819145864	9734-060220-LA	6/2/2023	
+2	11	19	Truax & Company	P O Box 5714	Lake Charles	LA	70606	3378422094	5487-060203-LA	6/2/2023	
+2	11	19	Tucker & Associates Security Consultants, Inc.	P.O. Box 28	Lafitte	LA	70067	5046893180	0577-052593-LA	5/25/2023	
+2	12	20	Turner and Associates	P O Box 52597	Shreveport	LA	71135	3188689617	0170-030493-LA	3/4/2023	
+2	12	20	U S F and Associates, Inc.	5304 Woodstream Dr	Marrero	LA	70072	50425695835044399171	0980-013194-LA	1/31/2023	
+2	12	20	Upfront Observations	4928 Idlewood Drive	Baton Rouge	LA	70809	2252291491	7232-100709-LA	10/7/2023	
+2	12	20	Uptown Investigations, LLC	P.O. Box 50190	New Orleans	LA	70150	5042081154	0034-020911-LA	7/15/2023	
+2	12	20	Vaccaro Investigations	7515 Jefferson Hwy #330	Baton Rouge	LA	70806	2253260454	9812-120120-LA	12/1/2023	
+2	12	20	Varnell Investigations LLC	2049 White Road	Kelly	LA	71441	3182376105	6993-111908-LA	11/19/2023	
+2	12	20	Vector Insurance Services	610 Marshall Street, Ste. 330	Shreveport	LA	71101	31820732473187349888	0627-062993-LA	6/29/2023	
+2	12	20	Veracity Research Co. , LLC	1104 Dallas Dr., Ste. 220	Denton	TX	76205	8006542185	3408-092497-LA	9/24/2023	
+2	12	20	Verifi, LLC	2701 Johnston St., Suite 201 B	Lafayette	LA	70503	3378893000	9732-060220-LA	6/2/2023	
+2	12	20	Vital Investigative Services, LLC	P O Box 9382	New Iberia	LA	70562	3379677171	8467-111914-LA	5/23/2023	
+2	12	20	Volz Investigations	P O Box 472	Folsom	LA	70437	9852370903	0997-013194-LA	5/24/2023	
+2	12	20	W M Delphin- Investigations Inc.	P O Box 4003	Shreveport	LA	71134	3182882525	0362-042793-LA	4/27/2023	
+2	12	20	Wagner Investigations	PO Box 7103	Alexandria	LA	71360	3186646984	1670-101295-LA	10/12/2023	
+2	12	20	Walker Claim Investigations, LLC	P.O. Box 1284	Madisonville	LA	70447	9852641640	9760-081920-LA	8/19/2023	
+2	12	20	Wallace Investigations, L.L.C.	4934 Westridge Park East	Lake Charles	LA	70605	3378029569	1970-061096-LA	6/10/2023	
+2	12	20	Washington Investigation, LLC	6197 Tezcuco Court	Gonzales	LA	70737	5044152662	3035-111596-LA	11/15/2023	
+2	12	20	Waterproof Data	PO Box 8012	Houma	LA	70361	9856282188	7569-011311-LA	1/13/2023	
+2	12	20	Weatherly Investigations, LLC	P.O. Box 415	Long Beach	MS	39560	5043155726	7817-021512-LA	2/15/2023	
+2	12	20	Whitehat Private Detective Agency, LLC	1000 Ann Street	Westlake	LA	70669	3373046930	10098-051922-LA	5/19/2023	
+2	12	20	Why Wonder Investigations & Security Services	P.O. Box 5315	Aiken	SC	29804	8036457026	9651-111919-LA	11/19/2023	
+2	12	20	William Landry Investigations	3700 Orleans Avenue #5111	New Orleans	LA	70119	5044161409	8398-072214-LA	7/22/2023	
+2	12	20	Williams & Associates dba N.E.I.A.	4480 General De Gaulle Dr. Ste. 108	New Orleans	LA	70131	5042659934	6559-011707-LA	7/17/2023	
+2	12	20	Williams Investigations	3607 Old Dallas  Rd	Bonnerdale	AR	71933	5016096647	5097-030602-LA	3/6/2023	
+2	12	20	Williamson's Investigations	14115 South Harrell's Ferry Road	Baton Rouge	LA	70816	2253248990	8767-011916-LA	1/19/2023	
+2	12	20	Wilson's Investigative Services	505 E 2nd Street	Belle Chasse	LA	70037	5049121030	3757-062298-LA	6/22/2023	
+2	13	21	Wiseman Investigative Services	P O Box 15096	New Orleans	LA	70175	6102416199	9507-022619-LA	2/26/2023	
+2	13	21	WMB Investigative Instincts, LLC	201 Century Village Blvd, Suite 200	Monroe	LA	71202	8326148768	9864-031621-LA	3/16/2023	
+2	13	21	Woodall & Broome, Inc.	P O Box 711	Acworth	GA	30101	7704997464	7757-092011-LA	10/11/2022	
+2	13	21	Wooten Investigations	1620 Coldwater Road	Winnfield	LA	71483	3184130965	7547-120710-LA	12/7/2023	
+2	13	21	Xile Investigations	219 Mimosa Place	Lafayette	LA	70506	3373520575	9930-070821-LA	7/8/2023	
+2	13	21	Zulli Investigative Services, LLC	408 Breemen Circle	Lafayette	LA	70508	5049579035	9516-031919-LA	3/19/2023	
