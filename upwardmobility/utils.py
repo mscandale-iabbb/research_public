@@ -68,3 +68,10 @@ def decodeEmail(self, e):
         de += chr(int(e[i:i+2], 16)^k)
     return de
 
+def get_post_data(response):
+    post_data = {}
+    for tag in response.xpath('//input[@type="hidden"]'):
+        label = tag.xpath('@name').extract_first()
+        value = tag.xpath('@value').extract_first()
+        post_data[label] =  value if value else ''
+    return post_data
