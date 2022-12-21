@@ -1,7 +1,7 @@
 SELECT
 	s.scam_id,
+	tblBBB.bureau_code,
 	s.status_id,
-	-- s.scam_type_id,
 	t.scam_type,
 	i.scam_type_other,
 	s.scam_name,
@@ -44,5 +44,6 @@ LEFT JOIN BlueScam.dbo.tblSCAM_Inquiry i ON i.scam_id = s.scam_id
 LEFT JOIN tblSCAM_Victim v ON v.victim_id = i.victim_id
 LEFT JOIN tblSCAM_Scammer sc ON sc.scammer_id = i.scammer_id
 LEFT JOIN tblSCAM_Type t ON t.scam_type_id = s.scam_type_id
+LEFT JOIN tblBBB ON tblBBB.bbbid = i.bbbid
 WHERE
 	s.status_id = 2
