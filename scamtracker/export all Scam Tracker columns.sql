@@ -1,6 +1,6 @@
 SELECT
 	s.scam_id AS 'Scam ID',
-	tblBBB.bureau_code AS 'BBB',
+	tblBBB.bureau_code + ' - ' + tblBBB.location AS 'BBB',
 	st.scam_status AS 'Status',
 	t.scam_type AS 'Scam Type',
 	i.scam_type_other AS 'Scam Type Other',
