@@ -1,4 +1,6 @@
 
+/* use this for checking the survey data for any typos: extra digits, missing digits, blanks, etc. */
+
 declare @xyear smallint
 set @xyear = '2022'
 declare @datefrom date
