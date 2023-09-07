@@ -1,50 +1,46 @@
 SELECT
-	--SUM(i.dollar_value)
-	--v.state,
 	s.scam_id AS 'Scam ID',
-	-- tblBBB.bureau_code + ' - ' + tblBBB.location AS 'BBB',
-	--st.scam_status AS 'Status',
-	replace(replace(replace(replace(t.scam_type,char(13),' '),char(10),' '),char(9),' '),'&#39;','`') AS 'Scam Type',
-	--i.scam_type_other AS 'Scam Type Other',
-	--c.contact_method,
-	--replace(replace(replace(replace(via.scam_via,char(13),' '),char(10),' '),char(9),' '),'&#39;','`') AS 'Contact Method',
-	--replace(replace(replace(replace(pm.payment_method,char(13),' '),char(10),' '),char(9),' '),'&#39;','`') AS 'Payment Method',
-	replace(replace(replace(replace(s.scam_name,char(13),' '),char(10),' '),char(9),' '),'&#39;','`') AS 'Scam Name',
-	replace(replace(replace(replace(cast(s.description AS VARCHAR(MAX)),char(13),' '),char(10),' '),char(9),' '),'&#39;','`') AS 'Scam Description',
-	replace(replace(replace(replace(cast(s.keywords AS VARCHAR(MAX)),char(13),' '),char(10),' '),char(9),' '),'&#39;','`') AS 'Scam Keywords',
-	--s.CreatedOn AS 'Created',
-	i.dollar_value AS 'Amount Lost',
-	i.dollar_attempt AS 'Amount Attempted',
-	sc.business_name AS 'Business Name',
-	sc.url AS 'Business URL'
-	/*
-	i.ipaddress AS 'IP Address',
-	i.latitude AS 'Latitude',
-	i.longitude AS 'Longitude',
 	v.name_first AS 'Victim First Name',
 	v.name_last AS 'Victim Last Name',
-	v.phone AS 'Victim Phone',
-	v.email AS 'Victim Email',
-	a.agerange AS 'Victim Age Range',
-	g.description AS 'Victim Gender',
-	v.city AS 'Victim City',
-	v.state AS 'Victim State',
+	v.state,
 	v.zip AS 'Victim Zip',
-	--v.zip_4 AS 'Victim Zip+4',
-	v.country AS 'Victim Country',
-	v.allowMedia AS 'Allow Media',
-	v.isVictim AS 'Is Victim',
-	v.isIndividual AS 'Individual',
-	v.isActiveDuty AS 'Active Duty Military',
-	v.isStudent AS 'Student',
+	v.email AS 'Victim Email',
+	v.phone AS 'Victim Phone',
+	sc.business_name AS 'Business Name',
 	sc.address_1 AS 'Business Address',
-	sc.address_2 AS 'Business Address 2',
+	--sc.address_2 AS 'Business Address 2',
 	sc.city AS 'Business City',
 	sc.state AS 'Business State',
 	sc.zip AS 'Business Zip',
-	sc.country AS 'Business Country',
 	sc.phone AS 'Business Phone',
+	s.CreatedOn AS 'Created',
+	replace(replace(replace(replace(cast(s.description AS VARCHAR(MAX)),char(13),' '),char(10),' '),char(9),' '),'&#39;','`') AS 'Scam Description',
+	g.description AS 'Victim Gender',
+	a.agerange AS 'Victim Age Range',
+	replace(replace(replace(replace(t.scam_type,char(13),' '),char(10),' '),char(9),' '),'&#39;','`') AS 'Scam Type',
 	sc.email AS 'Business Email',
+	v.isActiveDuty AS 'Active Duty Military',
+	v.isStudent AS 'Student',
+	v.isVictim AS 'Is Victim',
+	replace(replace(replace(replace(pm.payment_method,char(13),' '),char(10),' '),char(9),' '),'&#39;','`') AS 'Payment Method',
+	replace(replace(replace(replace(via.scam_via,char(13),' '),char(10),' '),char(9),' '),'&#39;','`') AS 'Contact Method',
+	sc.country AS 'Business Country',
+	v.allowMedia AS 'Allow Media',
+	tblBBB.bureau_code + ' - ' + tblBBB.location AS 'BBB',
+	i.dollar_value AS 'Amount Lost'
+
+	/*
+	i.scam_type_other AS 'Scam Type Other',
+	replace(replace(replace(replace(s.scam_name,char(13),' '),char(10),' '),char(9),' '),'&#39;','`') AS 'Scam Name',
+	replace(replace(replace(replace(cast(s.keywords AS VARCHAR(MAX)),char(13),' '),char(10),' '),char(9),' '),'&#39;','`') AS 'Scam Keywords',
+	i.dollar_attempt AS 'Amount Attempted',
+	sc.url AS 'Business URL'
+	i.ipaddress AS 'IP Address',
+	v.city AS 'Victim City',
+	v.state AS 'Victim State',
+	v.zip_4 AS 'Victim Zip+4',
+	v.country AS 'Victim Country',
+	v.isIndividual AS 'Individual',
 	*/
 FROM BlueScam.dbo.tblScam s
 LEFT JOIN BlueScam.dbo.tblSCAM_Inquiry i ON i.scam_id = s.scam_id
@@ -63,7 +59,7 @@ LEFT JOIN BlueScam.dbo.tblSCAM_Victim_Gender g ON g.gender = v.gender
 WHERE
 	s.status_id = 2 and
 	t.scam_type IN ('Online Purchase','Counterfeit Product','Phishing','Identity Theft','Other') and
-	YEAR(s.CreatedOn) = '2022' and
+	--YEAR(s.CreatedOn) = '2022' and
 	-- v.state = 'WI' and
 	(
 		sc.business_name like '%pet scam%' or s.description like '%pet scam%' OR s.scam_name like '%pet scam%' OR s.keywords like '%pet scam%' OR
@@ -76,11 +72,13 @@ WHERE
 		sc.business_name like '%k-9%' or s.description like '%k-9%' or
 		sc.business_name like '%akc%' or s.description like '%akc%' or
 		sc.business_name like '%breeder%' or s.description like '%breeder%' OR s.scam_name like '%breeder%' OR s.keywords like '%breeder%' OR
+
 		sc.business_name like '%kitten%' or s.description like '%kitten%' OR s.scam_name like '%kitten%' OR s.keywords like '%kitten%' OR
 		sc.business_name like '%kitty%' or s.description like '%kitty%' OR s.scam_name like '%kitty%' OR s.keywords like '%kitty%' OR
 		sc.business_name LIKE '% cat[s, ]%' or s.description like '% cat[s, ]%' OR s.scam_name like '% cat[s, ]%' OR s.keywords like '% cat[s, ]%' or
 		sc.business_name like '%cattery%' or s.description like '%cattery%' OR s.scam_name like '%cattery%' OR s.keywords like '%cattery%' OR
-		sc.business_name like '%maine coon%' or s.description like '%maine coon%' OR s.scam_name like '%maine coon%' OR s.keywords like '%maine coon%' OR	
+		sc.business_name like '%maine coon%' or s.description like '%maine coon%' OR s.scam_name like '%maine coon%' OR s.keywords like '%maine coon%' OR
+		
 		sc.business_name like '%beagle%' or s.description like '%beagle%' or
 		sc.business_name like '%poodle%' or s.description like '%poodle%' or
 		sc.business_name like '%spaniel%' or s.description like '%spaniel%' or
