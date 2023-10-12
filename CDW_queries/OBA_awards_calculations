@@ -1,0 +1,136 @@
+/* run each year, update the date range, paste results into Excel spreadsheet */
+declare @DateFrom date = '8/1/2022'
+declare @DateTo date = '7/31/2023'
+declare @StatYear smallint = YEAR(@DateTo)
+declare @EstabsYear smallint =
+	(select top 1 [Year] from BBBFinancials WITH (NOLOCK) ORDER BY [Year] DESC)
+
+SELECT
+	NicknameCity,
+	--f.EstabsInArea as Firms,
+	--SnapshotStats.CountOfBillableABs,
+	BBB_Category =
+	CASE
+	        WHEN SnapshotStats.CountOfBillableABs <= 2000
+			THEN 'A'
+	        WHEN SnapshotStats.CountOfBillableABs >= 2001 AND SnapshotStats.CountOfBillableABs <= 4000
+			THEN 'B'
+	        WHEN SnapshotStats.CountOfBillableABs >= 4001 AND SnapshotStats.CountOfBillableABs <= 6000
+			THEN 'C'
+		WHEN SnapshotStats.CountOfBillableABs >= 6001
+			THEN 'D'
+		ELSE ''
+	END,
+	(
+		SELECT
+		100 * ( 1.00 -
+		(
+		CAST(
+				(SELECT count(*) + 1 from BusinessComplaint c WITH (NOLOCK) WHERE
+						c.BBBID = BBB.BBBID AND
+						DateClosed >= @DateFrom AND DateClosed <= @DateTo AND
+						CloseCode IN ('120','200')
+				)
+		as decimal(14,2) )
+		/
+		coalesce(CAST(
+				(SELECT count(*) from BusinessComplaint c WITH (NOLOCK) WHERE
+						c.BBBID = BBB.BBBID AND
+						DateClosed >= @DateFrom AND DateClosed <= @DateTo AND
+						CloseCode > '0' and CloseCode <= '200'
+				)
+		as decimal (14,2) ), 0.00001)
+		)
+		)
+	) as ResolutionRate,
+
+	/*
+	( SELECT
+		(
+			CAST(
+					(SELECT COUNT(*) from BusinessComplaint c WITH (NOLOCK) WHERE
+							c.BBBID = BBB.BBBID AND
+							c.DateClosed >= @DateFrom AND c.DateClosed <= @DateTo and
+							c.CloseCode > '0' and c.CloseCode <= '300'
+					)
+			as decimal (14,2) )
+			/
+			CAST(
+					(SELECT f.EstabsInArea from BBBFinancials f2 WITH (NOLOCK) WHERE
+							f2.BBBID = BBB.BBBID AND f2.BBBBranchID = 0 and
+							f2.[Year] = @EstabsYear
+					)
+			as decimal (14,2) )
+        )
+    )
+	as ComplaintRate,
+	*/
+	/*
+	(
+		SELECT
+		CAST(
+				(SELECT count(*) from BusinessComplaint c WITH (NOLOCK) WHERE
+						c.BBBID = BBB.BBBID AND
+						DateClosed >= @DateFrom AND DateClosed <= @DateTo AND
+						CloseCode = '600'
+				)
+		as decimal(14,2) )
+		/
+		CAST(
+				(SELECT count(*) from BusinessComplaint c WITH (NOLOCK) WHERE
+						c.BBBID = BBB.BBBID AND
+						DateClosed >= @DateFrom AND DateClosed <= @DateTo AND
+						CloseCode > '0' and CloseCode <= '999'
+				)
+		as decimal (14,2) )
+	) as PercentageOf600,
+	*/
+	(
+		SELECT
+				AVG( cast(
+						dbo.CDW_WEEKDAYDIFF(DateComplaintFiledWithBBB,DateComplaintOpenedByBBB)
+				as decimal(14,2) ) )
+				FROM BusinessComplaint c WITH (NOLOCK) WHERE
+				c.BBBID = BBB.BBBID AND
+				DateClosed >= @DateFrom AND DateClosed <= @DateTo AND
+				DateComplaintFiledWithBBB IS NOT NULL AND DateComplaintOpenedByBBB IS NOT NULL AND
+				DateComplaintFiledWithBBB <= DateComplaintOpenedByBBB
+	) as DaysToOpen,
+	(
+		SELECT AVG( cast(CountOfDaysToProcessComplaint as decimal(14,2) ) )
+				FROM BusinessComplaint c WITH (NOLOCK) WHERE
+				c.BBBID = BBB.BBBID AND
+				DateClosed >= @DateFrom AND DateClosed <= @DateTo AND
+				CountOfDaysToProcessComplaint >= 0 and
+				CloseCode > '0' and CloseCode != '400'
+	) as DaysToClose,
+
+	( SELECT
+		(
+			CAST(
+					(SELECT SUM(CountTotal) from BusinessInquiry i WITH (NOLOCK) WHERE
+							i.BBBID = BBB.BBBID AND
+							i.DateOfInquiry >= @DateFrom AND i.DateOfInquiry <= @DateTo
+					)
+			as decimal (14,2) )
+			/
+			CAST(
+					(SELECT f2.EstabsInArea /*f2.PersonsInArea*/
+						from BBBFinancials f2 WITH (NOLOCK) WHERE
+						f2.BBBID = BBB.BBBID AND f2.BBBBranchID = 0 and
+						f2.[Year] = @EstabsYear - 2
+					)
+			as decimal (14,2) )
+        )
+    )
+	as InquiryRate
+
+FROM BBB WITH (NOLOCK)
+INNER JOIN SnapshotStats WITH (NOLOCK) ON
+	SnapshotStats.BBBID = BBB.BBBID AND SnapshotStats.[MonthNumber] = 1 AND
+	SnapshotStats.[Year] = @StatYear
+INNER JOIN BBBFinancials f WITH (NOLOCK) ON
+	f.BBBID = BBB.BBBID and f.BBBBranchID = BBB.BBBBranchID and f.[Year] = @EstabsYear
+WHERE
+	BBB.BBBBranchID = '0' and IsActive = '1' AND BBB.BBBID != '8888' --AND BBB.NicknameCity != 'El Paso'
+order by BBB_Category, NicknameCity, State
